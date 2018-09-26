@@ -3,7 +3,7 @@ module.exports = {
 
     'facebookAuth' : {
         'clientID'      : '2266455086759032', // your App ID
-        'clientSecret'  : 'abfa559f286ad54c6fff082686581286', // your App Secret
+        'clientSecret'  : 'ebe30ada2eeafb3161d35915833831ba', // your App Secret
         'callbackURL'   : 'https://assigment3bygouththam.herokuapp.com/auth/facebook/callback',
         'profileURL'    : 'https://graph.facebook.com/v2.5/me?fields=first_name,last_name,email',
         'profileFields' : ['id', 'email', 'name'] // For requesting permissions from Facebook API
