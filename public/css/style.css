@@ -1,0 +1,296 @@
+body{
+
+  height: 100%;
+ background: #3399ff !important;
+
+}
+body > .jumbotron >  .pagination > li > a{
+  border: 1px hidden black !important;
+  color: black;
+  font-size: 20px;
+  padding-left: 5 !important;
+  padding-right: 5 !important;
+  background-color: transparent !important;
+}
+
+body > .jumbotron >  .pagination{
+  margin-bottom: 2px;
+}
+
+
+
+body >.jumbotron > .pager{
+  padding-right: 150px;
+  padding-left: 150px;
+  margin-top: 2px;
+}
+
+body >.jumbotron > .pager > li> a{
+  background-color: gray;
+  color: white;
+  border-radius: 2px;
+}
+.navbar-default{
+  margin-bottom: 0px !important;
+}
+
+.navbar-inverse {
+    background-color: white !important;
+  }
+body > .navbar-inverse > .container-fluid > .navbar-nav> .active > a{
+  background-color: gray !important;
+}
+body>.add-container{
+  display: block;
+  width:80%;
+  background-color: lightgray;
+  height: auto;
+  margin-top: 10px;
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
+body>.add-container> .nithu {
+  margin-top: 5px;
+  margin-left: 5px;
+  line-height: 1.5;
+}
+.jathu{
+  background-color: gray;
+  margin: 0;
+  width: 100%;
+  font-size: 15px;
+  border: 50px thin black;
+
+
+}
+.movie-box{
+  display: block;
+  background-color: lightblue;
+  width: 90%;
+  height: auto;
+  margin-left: 3%;
+  margin-right: 5%x;
+  margin-top: 0px;
+  margin-bottom: 100px;
+}
+.movie-box > .game-body{
+  display: block;
+  height: auto;
+  padding: 0px;
+  margin-left: 3%;
+}
+.movie-box > .game-body >.ingallery {
+  display: none;
+  width: 22%;
+  height: 60%;
+  margin: 15px 11px;
+
+}
+.shows{
+  display: inline-block !important;
+}
+.movie-box > .game-body > .ingallery > a  >  img {
+  width: 100%;
+  height: 100%;
+
+}
+.movie-box > .game-body > .ingallery > a  >  img:hover {
+
+  border: 15px solid green;
+}
+.movie-box > .game-body > .ingallery > .desc {
+  font-weight: bolder;
+  text-align: center;
+}
+.game-box{
+  background-color: darkgray;
+  width:100%;
+  height: auto;
+  display: inline-block;
+  padding: 5px;
+}
+.game-box>h2{
+  margin: 5px;
+  float: left;
+}
+
+.game-box> .search{
+  float: right;
+  margin: 5px 20px;
+}
+
+.navbar-inverse{
+  margin-bottom: 0px !important;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+/* login */
+
+
+
+    .loginForm{
+        border: 1px solid rgba(192,192,192,0.1)!important;
+        margin-top: 60px;
+        background-color: rgba(192,192,192,0.8);
+        width: 80%;
+        height: auto;
+    }
+    .modal-title{padding: 10px;}
+    #loginFormText{
+        text-align: center;
+    }
+   .fb {
+       background-color: #3B5998;
+       color: white;
+       text-decoration: none;
+       text-align: center;
+    }
+    .fb:hover {
+        background-color: white;
+        color: #3B5998;
+    }
+    .google {
+       background-color: #dd4b39;
+       color: white;
+       text-decoration: none;
+       text-align: center;
+    }
+    .google:hover{
+        background-color: white;
+        color: #dd4b39;
+        border: #dd4b39;
+    }
+    .input-group{
+        margin-bottom: 10px;
+    }
+
+
+     .btn.btn-primary.btn-block.btn-lg{background-color: green;
+width: 100%;
+color: white;
+height: 40px;
+text-align: center;
+}
+
+
+.input-group .form-control{
+  width: auto !important;
+}
+
+.gallery {
+    display: inline-block;
+    float: left;
+    width: 20%;
+    height: auto;
+    margin-top: 5px;
+    margin-right: 50px !important;
+
+}
+
+.gallery:hover {
+    border: 1px solid #777;
+}
+
+.detalis-box > .gallery > a  > img {
+    height: 80%;
+    width: 120%;
+}
+/*.detalis-box > .gallery {
+  display: inline-block;
+  height: 100%;
+  border: 1px hidden gold;
+  margin-top: 5px !important;
+  margin-right: 30px !important;
+  /*padding: 15px !important;*/
+  /*text-align: center;*/
+ /*} */
+.detalis-box > .nxt-box{
+  padding-left: 20px;
+  display: inline-block;
+  /*float: left;*/
+  width: 70%;
+ height: auto;
+  margin-left: 30px;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.detalis-box > .nxt-box > h2 {
+  display: inline;
+}
+.detalis-box > .nxt-box > p {
+  color: red;
+}
+.box1{
+  display: block;
+  height: 75%;
+  background-color: lightblue;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  padding: 20px;
+  height: auto;
+}
+.bat{
+  text-align: center;
+  margin-top: 25px;
+}
+
+.SignUp{
+  margin-left: 10% !important;
+  background-color:#1E90FF ;
+  width: 80%;
+  color: white;
+  height: 40px;}
+
+
+.detalis-box{
+  width: 70%;
+  height:450px;
+  padding: 5px !important;
+  background-color: white;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+
+}
+
+body > .xbox{
+  margin: 20px auto 20px auto;
+  width: 70%;
+  height: auto;
+  border: 1px solid #b4efdb;
+  background-color: #b4efdb;
+  text-align: center;
+}
+body > .lastbox {
+  margin: 20px auto 50px auto;
+  border: 1px solid white;
+  width: 70%;
+  height: auto;
+  background-color: white;
+}
+
+body > .lastbox > .header {
+  height: 15%;
+  width: 100%;
+  background-color: lightgray;
+  font-size: 16px;
+}
+body > .lastbox > .header > img{
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+body > .lastbox > .header > p{
+  display: inline;
+}
+body > .lastbox > .episodes {
+  padding-left: 2%;
+  margin: 20px;
+  height: 15%;
+  border-left: 5px solid black;
+}
