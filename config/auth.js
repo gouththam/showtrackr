@@ -19,7 +19,7 @@ module.exports = {
         'googleAuth' : {
             'clientID'      : '187542123550-sqalel0b7b4f1dlm636ks8ab0qda638l.apps.googleusercontent.com',
             'clientSecret'  : 'nYCQEgBW6WemPNy2qbLKzmAp',
-            'callbackURL'   : 'http://localhost:8080/auth/google/callback'
+            'callbackURL'   : 'https://assigment3bygouththam.herokuapp.com/auth/google/callback'
         }
 
     };
