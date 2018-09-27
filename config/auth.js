@@ -17,8 +17,8 @@ module.exports = {
 
 
         'googleAuth' : {
-            'clientID'      : '187542123550-sqalel0b7b4f1dlm636ks8ab0qda638l.apps.googleusercontent.com',
-            'clientSecret'  : 'nYCQEgBW6WemPNy2qbLKzmAp',
+            'clientID'      : '976501629768-qnmqu7q0l7svf82hfbfco98l5j99melm.apps.googleusercontent.com',
+            'clientSecret'  : 'A3QKhme2qnZHMrRhrmCu_e_k',
             'callbackURL'   : 'https://assigment3bygouththam.herokuapp.com/auth/google/callback'
         }
 
